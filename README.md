@@ -1,4 +1,4 @@
-## Html_Css_Practico_2
+## Look like Google but isn't google
 A copy of google's view, isn't functional
 
 ## Tech Stack
